@@ -1,15 +1,15 @@
-# 👤 MR ZERONE
+# 👤 MR ZERRONE
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;I'm+learning+to+code;Future+Software+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;I'm+Mr+Zerrone;Code+-+Create+-+Dominate">
 </p>
 
 <p align="center">
-  <i>"Code. Học hỏi. Phát triển."</i>
+  <i>"Code. Sáng tạo. Bứt phá."</i>
 </p>
 
 <p align="center">
@@ -20,18 +20,18 @@
 
 ## 🧑‍💻 Giới thiệu
 
-- 👋 Xin chào! Mình là **Thanh**
-- 🌱 Hiện đang **học lập trình**
-- 💻 Quan tâm đến **Automation, Backend và System**
-- 🎯 Mục tiêu: Trở thành **Software Developer**
+- 🕶️ Developer bí ẩn trong thế giới số  
+- ⚡ Đam mê lập trình & automation  
+- 🌱 Đang học: Backend & System Design  
+- 🎯 Mục tiêu: Trở thành Software Engineer hàng đầu  
 
 ---
 
 ## ⚡ About Me
 
-- 💻 Đang học code mỗi ngày  
-- 🚀 Thích thử nghiệm và viết tool nhỏ  
-- 🔐 Quan tâm đến system và automation  
+- 💻 Coding mỗi ngày  
+- 🚀 Thích build tool automation  
+- 🔐 Quan tâm security & system  
 - 🎮 Gamer khi rảnh  
 
 ---
@@ -39,7 +39,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,vscode">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,git,docker,vscode">
 </p>
 
 ---
@@ -64,9 +64,9 @@
 
 ## 🧠 Fun Fact
 
-- ⚡ Thích viết tool hơn là dùng tool  
-- 🤖 Automation giúp tiết kiệm thời gian  
-- 🌙 Code ban đêm thường hiệu quả hơn  
+- ⚡ Tôi thích viết tool hơn là dùng tool  
+- 🤖 Automation làm cuộc sống dễ hơn  
+- 🌙 Code ban đêm hiệu quả hơn ban ngày  
 
 ---
 
@@ -88,4 +88,4 @@
 
 ## ⚔️ Quote
 
-> "Mỗi dòng code hôm nay là một bước tiến ngày mai."
+> "Trong thế giới của 1 và 0, tôi không chỉ tồn tại — tôi thống trị."
