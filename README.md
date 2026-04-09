@@ -52,15 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanh-26009&theme=tokyonight&hide_border=true">
 </p>
 
----
-
-## 📚 Most Used Languages
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanh-26009&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
