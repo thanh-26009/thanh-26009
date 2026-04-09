@@ -12,6 +12,10 @@
   <i>"Code. Sáng tạo. Bứt phá."</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanh-26009&color=blueviolet&style=for-the-badge">
+</p>
+
 ---
 
 ## 🧑‍💻 Giới thiệu
@@ -20,6 +24,15 @@
 - ⚡ Đam mê lập trình & automation  
 - 🌱 Đang học: Backend & System Design  
 - 🎯 Mục tiêu: Trở thành Software Engineer hàng đầu  
+
+---
+
+## ⚡ About Me
+
+- 💻 Coding mỗi ngày  
+- 🚀 Thích build tool automation  
+- 🔐 Quan tâm security & system  
+- 🎮 Gamer khi rảnh  
 
 ---
 
@@ -41,19 +54,19 @@
 
 ---
 
-## 🧠 Hoạt động
+## 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanh-26009&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-26009&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-## 🏆 Thành tích
+## 🧠 Fun Fact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanh-26009&theme=tokyonight&column=7&margin-w=15&margin-h=15">
-</p>
+- ⚡ Tôi thích viết tool hơn là dùng tool  
+- 🤖 Automation làm cuộc sống dễ hơn  
+- 🌙 Code ban đêm hiệu quả hơn ban ngày  
 
 ---
 
