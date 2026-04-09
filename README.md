@@ -34,9 +34,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanh-26009&show_icons=true&theme=tokyonight&hide_border=true">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanh-26009&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 🧠 Hoạt động
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanh-26009&theme=tokyo-night&hide_border=true">
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🏆 Thành tích
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanh-26009&theme=tokyonight&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=thanh-26009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
 </p>
 
 ---
