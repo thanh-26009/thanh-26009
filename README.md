@@ -57,6 +57,14 @@
 ## 📚 Most Used Languages
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-26009&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanh-26009&theme=tokyo-night&hide_border=true">
 </p>
 
@@ -73,13 +81,13 @@
 ## 🔗 Liên hệ
 
 <p align="center">
-  <a href="https://facebook.com/yourfacebook">
+  <a href="https://www.facebook.com/thanhdao.262009">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://discord.com/users/thanh_2009_ok">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:thanh26022009@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
