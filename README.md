@@ -1,11 +1,11 @@
-# 👤 MR ZERRONE
+# 👤 MR ZERONE
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;I'm+Mr+Zerrone;Code+-+Create+-+Dominate">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;I'm+Mr+Zerone;Code+-+Create+-+Dominate">
 </p>
 
 <p align="center">
